@@ -1,2 +1,3 @@
 # guides
-guides for software engineers in BrandyMint
+
+* How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
